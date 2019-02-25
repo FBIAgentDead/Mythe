@@ -1,8 +1,8 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## Arachne_Game
+Project team: Sjors Kaagman, Ralph van Vlijmen, Jaimy Putter, Tim Ottenhof, Rowan Iets, Dimitri van Manen 
 
 Platform:
-[jullie platfom]
+wii u
 
 ### Korte omschrijving van de game
 ...
