@@ -5,7 +5,7 @@ Platform:
 wii u
 
 ### Korte omschrijving van de game
-...
+Je bent arachne en gebruikt de WIi U gamepad om te tekenen en te overleven. 2D platformer
 
 ---
 #### Producten Werkproces 1
