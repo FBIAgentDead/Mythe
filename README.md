@@ -13,7 +13,7 @@ wii u
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [https://trello.com/b/Kg7UuFUl/mythe]
 | Logboek (pdf)                             | [Check Files in Git]
-| Game concept doc (pdf)                    | [Check files in Git]
+| Game concept doc (pdf)                    | [https://docs.google.com/presentation/d/1_z2voM2XapvlNb24LVqxxuEiLzD8Y7DCOMYhweQHBFA/edit#slide=id.p]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
