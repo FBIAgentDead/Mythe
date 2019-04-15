@@ -11,15 +11,15 @@ wii u
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
-| Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| Link naar online product backlog (Trello) | [https://trello.com/b/Kg7UuFUl/mythe]
+| Logboek (pdf)                             | [Check Files in Git]
+| Game concept doc (pdf)                    | [Check files in Git]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [https://trello.com/b/Kg7UuFUl/mythe]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 |<img width=500/>|<img width=300/>|
@@ -29,7 +29,7 @@ wii u
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
-| Link naar online speelbaar prototype  | [Prototype]
+| Link naar online speelbaar prototype  | [Kan niet was pure Wii U build de Exe werkte niet]
 | Logboek (pdf)                         | [Logboek]
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
