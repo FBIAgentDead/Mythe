@@ -20,7 +20,7 @@ wii u
 | Product  | Link |
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [https://trello.com/b/Kg7UuFUl/mythe]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
+| Sprint retrospective verslagen (pdf)                      | [Check files in Git]
 | Logboek (pdf)                                             | [Check files in Git]
 |<img width=500/>|<img width=300/>|
    
