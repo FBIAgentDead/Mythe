@@ -1,0 +1,6 @@
+Sprint 2 retrospective verslag:
+
+Na de review en het testen van de game zijn wij op een paar conclusies gekomen. Een van die conclusies is dat het touw
+beter moet worden en meer stringy zoals dat genoemd wordt. Ook moet de achtergrond levendiger worden. De animaties mogen wat
+meer actiever. Wij vonden sprint 2 al een stuk beter dan sprint 1 onze prioriteiten lagen al een stuk beter. Ook gaan wij nu
+extra werk besteden in al bestaanden features.
