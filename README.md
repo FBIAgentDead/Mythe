@@ -34,11 +34,11 @@ Je bent arachne en gebruikt de WIi U gamepad om te tekenen en te overleven. 2D p
 | Asset planning (pdf)                  | [https://trello.com/b/Kg7UuFUl/mythe]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [Backlog]: <https://trello.com/dimitrivanmanen/boards>
+   [Logboek]: <check files in git>
+   [GameDesignDoc]: <https://docs.google.com/presentation/d/1_z2voM2XapvlNb24LVqxxuEiLzD8Y7DCOMYhweQHBFA/edit?usp=sharing>
+   [RetrospectiveVerslagen]: <check files in git>
+   [ReviewVerslagen]: <check files in git>
+   [Prototype]: <>
+   [AssetPlanning]: <https://trello.com/dimitrivanmanen/boards>
    
