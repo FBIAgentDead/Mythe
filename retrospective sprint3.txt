@@ -1,0 +1,7 @@
+Sprint 3 retrospective verslag:
+
+Na het kritiek dat wij hebben ontvangen na sprint 2 zijn wij direct met z'n allen gaan zitten en kijken wat we kunnen doen voor sprint 3.
+We hebben direct een andere manier van aanpak genomen bij onze trello en alle userstories + todo's een juist nummer gegeven zodat we precies konden zien welke userstories bij welk todo hoorde.
+Dit gaf ons meer overzicht over de trello en we wisten precies welke todo bij welke userstory paste.
+We zijn vooral aan de slag gegaan met het fine tunen en level design van onze game. Ook hebben we een menu toegevoegd en checkpoints voor onze speler zodat die niet elke keer het level opnieuw hoefde te spelen.
+Kortom we hebben de game vooral lopen polishen, bug-fixen en er vooral voor gezorgd dat het spel beter speelt.
