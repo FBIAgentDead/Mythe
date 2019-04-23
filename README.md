@@ -5,7 +5,7 @@ Platform:
 wii u
 
 ### Korte omschrijving van de game
-...
+Je bent arachne en gebruikt de WIi U gamepad om te tekenen en te overleven. 2D platformer
 
 ---
 #### Producten Werkproces 1
@@ -20,7 +20,7 @@ wii u
 | Product  | Link |
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [https://trello.com/b/Kg7UuFUl/mythe]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
+| Sprint retrospective verslagen (pdf)                      | [Check files in Git]
 | Logboek (pdf)                                             | [Check files in Git]
 |<img width=500/>|<img width=300/>|
    
@@ -31,7 +31,7 @@ wii u
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Link naar online speelbaar prototype  | [Kan niet was pure Wii U build de Exe werkte niet]
 | Logboek (pdf)                         | [Check files in Git]
-| Asset planning (pdf)                  | [AssetPlanning]
+| Asset planning (pdf)                  | [https://trello.com/b/Kg7UuFUl/mythe]
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
