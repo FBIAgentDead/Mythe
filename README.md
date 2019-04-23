@@ -27,7 +27,7 @@ Je bent arachne en gebruikt de WIi U gamepad om te tekenen en te overleven. 2D p
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
+| Sprint retrospective verslagen (pdf)  | [check files in git]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Link naar online speelbaar prototype  | [Kan niet was pure Wii U build de Exe werkte niet]
 | Logboek (pdf)                         | [Check files in Git]
