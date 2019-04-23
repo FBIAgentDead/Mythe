@@ -1,0 +1,19 @@
+Sprint review 1:
+
+De game was grotendeels positief beoordeeld aangezien we vergeleken met de rest best wat op papier hadden. Over het concept zelf was ook veel positiviteit aanwezig,
+alleen was er een kleine angst aanwezig dat het weer een basic platformer is. Onze Trello was wat minder aangezien onze userstories niet helemaal duidelijk waren,
+ze kwamen meer over als een TODO van de dev dan userstory zoals de speler erover na zou denken.
+
+Sprint review 2:
+
+Waar we vooral kritiek op kregen was dat de animaties niet gelijk liep met de movement. Ook was de gravity veels te ligt en moest deze aangepast worden.
+Onze trello was net zoals in review 1 een probleem. Aangezien het niet duidelijk was welke TODO bij welke userstory hoorde. Ook hoorde we dat onze game zo goed is
+en dat we vooral aan de slag moesten met wat we nu hebben en dit product beter maken. Dus we hebben gelijk heel wat ideeën moeten schrappen en verder aan het verbeteren van het spel.
+
+
+Sprint review 3:
+
+Het eerste waar we kritiek op kregen was omdat we de game-pad van de Wii U niet mee hadden. Aangezien onze game was gebasseerd op de Wii U.
+We kregen weer vooral kritiek op onze trello, aangezien we niet alle TODO's hadden genummerd volgens ons systeem.
+Verder werd de game zelf prima beoordeeld en werd het al snel duidelijk dat we eigenlijk alleen nog bezig moesten met het polishen en bug-fixen van de game.
+Voor de rest was alles helemaal prima.
